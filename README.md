@@ -195,4 +195,4 @@ This repository serves as the official landing page for 1v1.LOL. The software is
 **Get the most recent version of 1v1.LOL today!**
 
 ---
-**Last updated:** 2026-11-09 07:32:03 UTC
+**Last updated:** 2026-11-10 01:50:50 UTC
